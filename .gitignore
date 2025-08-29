@@ -1,0 +1,48 @@
+# Ignore data files
+*.h5
+*.csv
+*.xlsx
+*.xls
+*.db
+*.pptx
+*.key
+*.txt
+*.gz
+*.tar
+*.docx
+
+._*.h5
+._*.csv
+._*.xlsx
+._*.xls
+._*.db
+._*.pptx
+._*.key
+._*.txt
+
+# Ignore images
+*.png
+*.pdf
+._*.png
+*.jpg
+*.jpeg
+*.gif
+*.bmp
+*.tiff
+
+# Python cache and environment files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+.venv/
+env/
+venv/
+
+# IDE files (PyCharm)
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
